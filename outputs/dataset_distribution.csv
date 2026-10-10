@@ -1,0 +1,5 @@
+Class,Train,Validation,Test
+glioma,564,161,80
+meningioma,358,124,63
+no_tumor,335,99,49
+pituitary,438,118,54

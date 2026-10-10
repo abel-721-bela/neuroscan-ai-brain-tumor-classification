@@ -1,0 +1,8 @@
+Train images: 1695
+Validation images: 502
+Test images: 246
+Corrupt/unreadable images: 0
+Exact duplicate groups: 0
+Cross-split duplicate groups: 0
+Class names: ['glioma', 'meningioma', 'no_tumor', 'pituitary']
+Class mapping: {'glioma': 0, 'meningioma': 1, 'no_tumor': 2, 'pituitary': 3}
