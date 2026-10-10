@@ -309,6 +309,5 @@ Consult a qualified medical professional for medical interpretation.
 """, unsafe_allow_html=True)
 
 st.caption(
-    "Labmentix AI/ML Internship Project 5 · "
     "Brain Tumor MRI Image Classification"
 )
